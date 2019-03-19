@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hw14\hw14\bin\Debug\hw14.exe.config
+C:\Users\Shipa\source\repos\hw14\hw14\bin\Debug\hw14.exe
+C:\Users\Shipa\source\repos\hw14\hw14\bin\Debug\hw14.pdb
+C:\Users\Shipa\source\repos\hw14\hw14\obj\Debug\hw14.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hw14\hw14\obj\Debug\hw14.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hw14\hw14\obj\Debug\hw14.exe
+C:\Users\Shipa\source\repos\hw14\hw14\obj\Debug\hw14.pdb
